@@ -1,4 +1,4 @@
-# Simple React Google Maps clone with Typescript & TailwindCSS
+# React Maps clone w/ Typescript & TailwindCSS
 ## Search and fly-over to locations
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/8e0c660e-230f-4928-bb4a-8bcd2cfc263c">
 
